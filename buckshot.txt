@@ -1,0 +1,19 @@
+Items:
+beer -> remove current shell X
+saw -> double damage X
+magnifying glass -> shows current shell X
+
+cuffs -> skip next turn (1 use)
+
+adrenaline -> steal item from person
+cigs -> +1 hit X
+
+cell phone -> says random future shell
+flipper -> flips current shell
+pills -> 50/50 ? +2 hits : -1 hit
+
+require information:
+cell phone
+pills
+beer
+magnifying glass
